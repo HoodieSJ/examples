@@ -10,9 +10,9 @@ scipy == 1.2.1
 ```
 ## Run
 Simply Run with the following script:```python3 main.py --align_type 'xxx'```
-CF-Debias -> --align_type 'none'
-CF-Debias -> --align_type 'linear'
-CF-Debias -> --align_type 'kernel'
+* CF-Debias -> --align_type 'none'
+* CF-Debias -> --align_type 'linear'
+* CF-Debias -> --align_type 'kernel'
 
 ## Results
 the results from sembias_evaluation will be saved in the log folder.
