@@ -15,7 +15,8 @@ Simply Run with the following script:```python3 main.py --align_type 'xxx'```
 * CF-Debias -> --align_type 'kernel'
 
 ## Results
-the results from sembias_evaluation will be saved in the log folder.
+For evaluation with Sembias Analogy Test, run bash file ```run_evaluation.sh```
+the results from sembias_evaluation will be saved in the logs folder.
 
 
 
